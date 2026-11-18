@@ -58,6 +58,8 @@ Examples for a skill stay in that skill's directory. The guide column of the [ca
 
 | Skill | Directory | Guide | Procedure | License |
 |---|---|---|---|---|
+| `code-precheck` | `skills/code-precheck/` | [skills/code-precheck/README.md](skills/code-precheck/README.md) | [skills/code-precheck/SKILL.md](skills/code-precheck/SKILL.md) | [skills/code-precheck/LICENSE](skills/code-precheck/LICENSE) |
+| `code-review` | `skills/code-review/` | [skills/code-review/README.md](skills/code-review/README.md) | [skills/code-review/SKILL.md](skills/code-review/SKILL.md) | [skills/code-review/LICENSE](skills/code-review/LICENSE) |
 | `correcting-bahasa-spelling` | `skills/correcting-bahasa-spelling/` | [skills/correcting-bahasa-spelling/README.md](skills/correcting-bahasa-spelling/README.md) | [skills/correcting-bahasa-spelling/SKILL.md](skills/correcting-bahasa-spelling/SKILL.md) | [skills/correcting-bahasa-spelling/LICENSE](skills/correcting-bahasa-spelling/LICENSE) |
 | `judging-skill` | `skills/judging-skill/` | [skills/judging-skill/README.md](skills/judging-skill/README.md) | [skills/judging-skill/SKILL.md](skills/judging-skill/SKILL.md) | [skills/judging-skill/LICENSE](skills/judging-skill/LICENSE) |
 
